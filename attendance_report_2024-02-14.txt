@@ -1,0 +1,12 @@
+Attendance Report
+================================================================================
+Serial Number: st0001, Name: joel, Email: joelmwangi515@gmail.com, Arrival Time: 2023-09-23 19:37:40, Day: Saturday, Status: Late (Come Late)
+Serial Number: st0003, Name: Joy Mwaniki, Email: joymwaniki@gmail.com, Arrival Time: 2023-09-23 19:38:17, Day: Saturday, Status: Late (Come Late)
+Serial Number: st0001, Name: Joel Mwangi, Email: joelmwangi@gmail.com, Arrival Time: 2023-11-28 17:39:04, Day: Tuesday, Status: Late (Come Late)
+Serial Number: st0004, Name: Nan, Email: nan@eliteservices.co.ke, Arrival Time: 2023-11-28 17:40:45, Day: Tuesday, Status: Late (Come Late)
+Serial Number: st0001, Name: joel, Email: jdjd, Arrival Time: 2023-11-28 17:45:53, Day: Tuesday, Status: Late (Come Late)
+Serial Number: st0002, Name: Kim, Email: kim@gmail.com, Arrival Time: 2023-12-17 19:07:22, Day: Sunday, Status: Late (Come Late)
+Serial Number: st0001, Name: joel mwangi, Email: joelmwangi515@gmail.com, Arrival Time: 2023-12-29 13:43:03, Day: Friday, Status: Late (Come Late)
+Serial Number: st0002, Name: Kim , Email: , Arrival Time: 2023-12-29 13:47:06, Day: Friday, Status: Late (Come Late)
+Serial Number: st0002, Name: JOEL MWANGI, Email: JORLMWANGI515@GMAIL.COM, Arrival Time: 2024-02-14 16:15:39, Day: Wednesday, Status: Late (Come Late)
+================================================================================
